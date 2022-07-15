@@ -1,3 +1,11 @@
+% Copyright (c) 2022 Shun Suzuki. All rights reserved.
+% File              : main.m
+% License           : MIT
+% Author            : Shun Suzuki <suzuki@hapis.k.u-tokyo.ac.jp>
+% Date              : 15/07/2022
+% Last Modified Date: 15/07/2022
+% Last Modified By  : Shun Suzuki <suzuki@hapis.k.u-tokyo.ac.jp>
+
 clearvars;
 
 trans_spacing = 10e-3; % m
